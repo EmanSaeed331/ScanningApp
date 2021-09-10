@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:title= "Analysis"
+        android:id="@+id/analysisID"
+        android:icon="@drawable/analysis"
+        />
+
+    <item
+        android:title="Broadcast"
+        android:icon="@drawable/broadcast"
+        android:id="@+id/broadcastID"
+        />
+
+    <item
+        android:title="PDFCreator"
+        android:id="@+id/pdfCreatorID"
+        android:icon="@drawable/pdfcreator"
+        />
+    <item
+        android:title="Updates"
+        android:id="@+id/updatesID"
+        android:icon="@drawable/update"
+        />
+    <item
+        android:title="Logout"
+        android:id="@+id/logoutID"
+        android:icon="@drawable/logout"
+        />
+
+</menu>

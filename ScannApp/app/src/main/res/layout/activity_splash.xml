@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.SplashActivity"
+    android:background="@color/white">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="32dp"
+        android:text="BATCHBOT"
+        android:textColor="@color/dark"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="134dp"
+        android:layout_height="wrap_content"
+
+        android:textColor="@color/gray3"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="79dp"
+        android:text="be connected with your dashboard through batchbot mobile application" />
+
+    <ImageView
+
+        android:layout_width="157dp"
+        android:layout_height="194dp"
+
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/splashlogo" />
+
+
+    <Button
+        android:id="@+id/startbtn"
+        android:layout_width="133dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+
+        android:layout_marginBottom="78dp"
+
+        android:background="@drawable/btn_design2"
+        android:text="GET STARTED"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+
+        android:layout_marginBottom="40dp"
+        android:text="GO TO WEBSITE"
+        android:textColor="@color/gray3" />
+
+</RelativeLayout>

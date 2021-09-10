@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9b9696</color>
+    <color name="colorPrimaryDark">#616161</color>
+    <color name="colorAccent">#2f567d</color>
+    <color name="gray">#9c9899</color>
+    <color name="white">#ffffff</color>
+    <color name="gray2">#eceaea</color>
+    <color name="gray3">#bdbaba</color>
+    <color name="cameraColor">#f4f2f2</color>
+    <color name="gray4">#9b9696</color>
+
+
+    <color name="dark">#2f567d </color>
+    <color name="light">#208ef0</color>
+    <color name="black">#000000</color>
+    <color name="btn_removeall">#f18a8a</color>
+
+
+
+</resources>
